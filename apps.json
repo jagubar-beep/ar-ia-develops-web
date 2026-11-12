@@ -1,0 +1,104 @@
+[
+  {
+    "id": "frontear",
+    "name": "FronteAR",
+    "tagline": "El paisaje no termina donde acaba un municipio.",
+    "description": "Descubre los límites municipales y los núcleos cercanos sobre la vista de la cámara. Cambia al mapa orbital y explora las zonas que ya tienes guardadas.",
+    "icon": "frontear.png",
+    "iconAlt": "Icono de FronteAR: un marcador sobre un paisaje con fronteras de colores",
+    "screenshots": [],
+    "status": "internal",
+    "statusLabel": "En pruebas · Android",
+    "platform": "Android",
+    "version": null,
+    "lastUpdated": null,
+    "eyebrow": "01 / NUESTRA PRIMERA APP",
+    "features": [
+      {
+        "label": "RA",
+        "text": "Límites y núcleos en tu entorno"
+      },
+      {
+        "label": "MAPA",
+        "text": "Tus zonas, de un vistazo"
+      },
+      {
+        "label": "OFFLINE",
+        "text": "Reutiliza los datos descargados"
+      }
+    ],
+    "availability": "FronteAR está disponible mediante invitación para testers autorizados en Google Play. El primer lanzamiento se dirige a personas de 16 años o más. La próxima actualización incorporará fotografías del terreno opcionales; todavía no está publicada.",
+    "notice": "Cobertura inicial: España. Las indicaciones son orientativas; no sustituyen cartografía oficial ni sirven para navegación de seguridad.",
+    "privacyUrl": "privacidad-frontear.html",
+    "playStoreUrl": null,
+    "repositoryUrl": null,
+    "roadmapHighlights": []
+  },
+  {
+    "id": "librarium",
+    "name": "Librarium",
+    "tagline": "Tu biblioteca, tu historia",
+    "description": "Biblioteca personal interactiva que permite organizar lecturas, personalizar estanterías y conservar recuerdos literarios.",
+    "icon": "assets/librarium/icon.png",
+    "iconAlt": "Icono de Librarium: un libro abierto y una taza bajo una lámpara de luz cálida",
+    "screenshots": [
+      {
+        "src": "assets/librarium/afternoon.png",
+        "alt": "Estantería personalizable en el ambiente Tarde de lectura",
+        "caption": "Una estantería a tu manera"
+      },
+      {
+        "src": "assets/librarium/journal-detail.png",
+        "alt": "Ficha de lectura con reflexiones y personajes favoritos",
+        "caption": "Guarda lo que te deja cada lectura"
+      },
+      {
+        "src": "assets/librarium/calendar.png",
+        "alt": "Calendario anual con lecturas terminadas por mes",
+        "caption": "Tus lecturas, mes a mes"
+      },
+      {
+        "src": "assets/librarium/tbr.png",
+        "alt": "Lista Quiero leer con prioridades y acción Empezar a leer",
+        "caption": "Elige tu próxima historia"
+      }
+    ],
+    "status": "internal",
+    "statusLabel": "Pruebas internas · Por invitación",
+    "platform": "Android 8.0 o posterior",
+    "version": "0.3.0",
+    "versionLabel": "Versión de pruebas internas",
+    "lastUpdated": "2026-11-12",
+    "eyebrow": "02 / TU DIARIO LITERARIO",
+    "features": [
+      {
+        "label": "ESTANTE",
+        "text": "Lomos personalizables, búsqueda y recolocación de libros"
+      },
+      {
+        "label": "DIARIO",
+        "text": "Reseñas, reflexiones, recuerdos y personajes favoritos"
+      },
+      {
+        "label": "FRASES",
+        "text": "Citas con localización, comentarios y búsqueda"
+      },
+      {
+        "label": "LECTURAS",
+        "text": "Calendario, pendientes y estadísticas"
+      },
+      {
+        "label": "OFFLINE",
+        "text": "Sin cuentas, anuncios ni conexión para organizar tu biblioteca"
+      }
+    ],
+    "availability": "Librarium 0.3.0 está disponible en la pista interna de Google Play. El acceso requiere que el estudio autorice tu cuenta; todavía no hay una descarga pública. Contacta con el estudio si quieres participar.",
+    "notice": "Puedes exportar copias privadas y compartir una selección de información para visitas de solo lectura. Revisa los datos antes de compartir: las copias privadas contienen anotaciones legibles. Las capturas muestran contenido ficticio de evaluación.",
+    "privacyUrl": "privacidad-librarium.html",
+    "playStoreUrl": null,
+    "repositoryUrl": null,
+    "roadmapHighlights": [
+      "0.3.0: diario lector, personajes, frases, calendario, pendientes y Tarde de lectura."
+    ]
+  }
+]
